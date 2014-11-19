@@ -1,0 +1,16 @@
+name: BlockManager
+version: 0.2
+author: Tactix1429
+description: LOLOLOLOL
+main: org.Tactix1429.bukkit.Regenblock
+commands:
+    save:
+      description: Saves all blocks to BlockConfig
+      permissions: Regen.Save
+    edit:
+      description: Enables editing the world
+      permissions: Regen.Save
+    messages:
+      description: Toggle Messages
+    
+    
